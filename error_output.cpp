@@ -36,4 +36,6 @@ int main() {
      catch (std::invalid_argument) {
         std::cout << "This was not a valid entry";
     }
+    // Default message
+    std::cout << "Thank you for playing!" << std::endl;
 }
