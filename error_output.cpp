@@ -37,5 +37,7 @@ int main() {
         std::cout << "This was not a valid entry";
     }
     // Default message
+    std::cout <<"\n" << std::endl;
     std::cout << "Thank you for playing!" << std::endl;
 }
+
